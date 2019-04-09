@@ -1,0 +1,22 @@
+/*
+* Emily Trainer
+* 4/9/19
+* My favorite things
+*/
+
+/* The universal selector */
+
+#beachfig {float:right; width:600 height:500px;}
+
+#fishfig {float:right;}
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    
+    background-color: lightblue
+
+}
